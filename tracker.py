@@ -62,7 +62,7 @@ def update_total():
 def delete_expense():
     selected = expense_table.selection()
     if not selected:
-        messagebox.showwarning("Warning", "Select an expense to delete.")
+        messagebox.showwarning("Warning!!", "Select an expense to delete.")
         return
     item = expense_table.item(selected[0])
     exp_id = item['values'][0]
