@@ -39,5 +39,5 @@ Track your daily expenses, categorize them, and get real-time summaries — all 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/akashjha21/Expense_Tracker.git
 cd expense-tracker
